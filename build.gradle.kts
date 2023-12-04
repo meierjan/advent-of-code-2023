@@ -13,3 +13,7 @@ tasks {
         gradleVersion = "8.5"
     }
 }
+
+dependencies {
+    implementation("junit:junit:4.13")
+}
